@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-10T10:12:07.142Z</updated>
+  <updated>2021-11-10T14:16:44.486Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>EDG夺冠和北京大雪</title>
+    <link href="http://example.com/2021/111032534.html"/>
+    <id>http://example.com/2021/111032534.html</id>
+    <published>2021-11-10T14:15:00.000Z</published>
+    <updated>2021-11-10T14:16:44.486Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;11月7日，对我来说世间就有两件事，一个是EDG夺冠了，一个是北京下雪了。他们对我的触动很大，我不想仅仅将他们浪费在记忆的长河，被遗忘冰封。&lt;/p&gt;
+&lt;p&gt;这两件事情，我无法将其排列，所以想混着来说。昨天夜里，再输一局，中国队就回家了，那个时候我想了很多，大多是自己的成长经</summary>
+        
+      
+    
+    
+    
+    
+    <category term="逐渐认识自我" scheme="http://example.com/tags/%E9%80%90%E6%B8%90%E8%AE%A4%E8%AF%86%E8%87%AA%E6%88%91/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
