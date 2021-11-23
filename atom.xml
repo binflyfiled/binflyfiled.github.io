@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-10T14:16:44.486Z</updated>
+  <updated>2021-11-23T12:40:39.589Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>七堇年</title>
+    <link href="http://example.com/2021/112338559.html"/>
+    <id>http://example.com/2021/112338559.html</id>
+    <published>2021-11-23T12:38:11.708Z</published>
+    <updated>2021-11-23T12:40:39.589Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我们的年少单薄，使得我们常常因为不知道痛苦这个词语的真相而轻易亲近这个概念，将自己的脆弱装裱为痛苦，并隆重展览，希望博取他人一点驻足和关注。&lt;br&gt;——七堇年&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>EDG夺冠和北京大雪</title>
     <link href="http://example.com/2021/111032534.html"/>
     <id>http://example.com/2021/111032534.html</id>
     <published>2021-11-10T14:15:00.000Z</published>
-    <updated>2021-11-10T14:16:44.486Z</updated>
+    <updated>2021-11-10T14:16:55.884Z</updated>
     
     
       
