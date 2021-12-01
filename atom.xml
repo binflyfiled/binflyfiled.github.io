@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-23T12:41:26.035Z</updated>
+  <updated>2021-12-01T08:44:25.990Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>青年大学习表格注意事项</title>
+    <link href="http://example.com/2021/120122818.html"/>
+    <id>http://example.com/2021/120122818.html</id>
+    <published>2021-12-01T08:21:16.000Z</published>
+    <updated>2021-12-01T08:44:25.990Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre&gt;&lt;code&gt;1.21级统一拉出来，置于新生院下
+2.格式:
+        字体宋体11号，行距24.95磅，列宽14.9；
+        背景颜色填充无，上下左右居中对齐
+        固定表头
+3.变化：
+    超百的不再归百，团员人数按网站来
+   </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>七堇年</title>
